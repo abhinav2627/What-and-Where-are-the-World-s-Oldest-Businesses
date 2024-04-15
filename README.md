@@ -4,4 +4,5 @@ An important part of business is planning for the future and ensuring that the b
 
 Like many business problems, the data we’ll explore is contained in several different datasets. In order to understand the world’s oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
-# CATEGORIES 
+## `CATEGORIES`
+

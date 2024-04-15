@@ -9,3 +9,11 @@ Like many business problems, the data we’ll explore is contained in several di
 | :--: | :--: | :--: |
 | category_code |	varchar |	Code for the category of the business.|
 | category | varchar |	Description of the business category. |
+
+## `COUNTRIES`
+| Column | Type | Meaning |
+| :--: | :--: | :--: |
+| country_code  | varchar | ISO 3166-1 3-letter country code.   |
+| country       | varchar | Name of the country.                |
+| continent     | varchar | Name of the continent the country exists in. |
+

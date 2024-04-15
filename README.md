@@ -17,3 +17,12 @@ Like many business problems, the data we’ll explore is contained in several di
 | country       | varchar | Name of the country.                |
 | continent     | varchar | Name of the continent the country exists in. |
 
+## `Businesses`
+| Column        | Type    | Meaning                             |
+|:-------------:|:-------:|:-----------------------------------:|
+| business      | varchar | Name of the business.               |
+| year_founded  | int     | Year the business was founded.      |
+| category_code | varchar | Code for the category of the business. |
+| country_code  | char    | ISO 3166-1 3-letter country code.   |
+
+Let's begin by looking at the range of the founding years throughout the world.
